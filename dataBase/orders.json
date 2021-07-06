@@ -1,0 +1,16 @@
+[
+  {
+    "customer_name": "",
+    "contact": "",
+    "purchases": [
+      {
+        "item_name": "",
+        "item_category": "",
+        "item_price": ""
+      }
+    ],
+
+    
+    "cost": ""
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "_id": 1,
+    "name": "Mishti Doi",
+    "category": "Dessert",
+    "price": 35,
+    "image": "https://th.bing.com/th/id/OIP.SSahTr1ZMvzymXDWZ-iMFwHaEW?w=303&h=180&c=7&o=5&dpr=1.25&pid=1.7",
+    "description": "Mishti Doi is a fermented sweet dahi made with milk and sugar/jaggery. It differs from the plain Dahi because of the technique of preparation.",
+    "available": true
+  },
+  {
+    "_id": 2,
+    "name": "Molten Chocolate Cake",
+    "category": "Dessert",
+    "price": 20,
+    "image": "https://th.bing.com/th/id/OIP.CW6jbbg9Y1JD08CuwyaFTwHaE7?w=256&h=180&c=7&o=5&pid=1.7",
+    "description": "Molten chocolate cake is a popular dessert that combines the elements of a chocolate cake and a soufflé. Its name derives from the dessert's liquid chocolate center, and it is also known as chocolate moelleux, chocolate lava cake, or simply lava cake.",
+    "available": true
+  },
+  {
+    "_id": 3,
+    "name": "An Ice Cream Cake",
+    "category": "Dessert",
+    "price": 25,
+    "image": "https://th.bing.com/th/id/R8f12ffd4882ea6543b45024eca7ea8ab?rik=8U2GqGmBgw%2bTAQ&riu=http%3a%2f%2fwww.allwhitebackground.com%2fimages%2f2%2f2406.jpg&ehk=haeSHtte0G6dfnHuvRXTvi2Wv4uAFfMpYCreFu3xq%2fs%3d&risl=&pid=ImgRaw",
+    "description": "An ice cream cake is a cake made with ice cream. These can be no-bake cakes, or may be more elaborate layer cakes with ice cream between layers of sponge cake. A popular form is a three-layer cake, with a layer of ice cream between two layers of cake. ",
+    "available": true
+  },
+  {
+    "_id": 4,
+    "name": "Kulfi",
+    "category": "Dessert",
+    "price": 30,
+    "image": "https://th.bing.com/th/id/OIP.W3CQxBqxqgxkCpJ66Km9EAAAAA?pid=ImgDet&rs=1",
+    "description": "Kulfi is a frozen dairy dessert originating in the Indian subcontinent in the 16th century. It is often described as \"traditional Indian ice cream. ",
+    "available": true
+  },
+  {
+    "_id": 5,
+    "name": "Gingerbread",
+    "category": "Dessert",
+    "price": 10,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Mjuk_pepparkaka_med_lingon.jpg/375px-Mjuk_pepparkaka_med_lingon.jpg",
+    "description": "Gingerbread refers to a broad category of baked goods, typically flavored with ginger, cloves, nutmeg and cinnamon and sweetened with honey, sugar or molasses. Gingerbread foods vary, ranging from a soft, moist loaf cake ",
+    "available": true
+  }
+]

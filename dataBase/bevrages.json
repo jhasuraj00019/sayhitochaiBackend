@@ -1,0 +1,47 @@
+[
+  {
+    "_id": 1,
+    "name": "Classing Cutting",
+    "category": "Bevrage",
+    "price": 10,
+    "image": "https://th.bing.com/th/id/OIP.akklo_dK3Gf9f2QjfbteBAHaF0?w=239&h=188&c=7&o=5&pid=1.7",
+    "description": "Made famous in Mumbai or Bombay, the Cutting Chai is called so because the flavor of the tea is said to be so strong that it is only served by the half-glass",
+    "available": true
+  },
+  {
+    "_id": 2,
+    "name": "Masala Chai",
+    "category": "Bevrage",
+    "price": 20,
+    "image": "https://thrivingonpaleo.com/wp-content/uploads/2019/10/AIP-chai-latte-recipe-4.jpg",
+    "description": "A tea spiced with Indian flavors, and desired greatly on cold mornings.",
+    "available": true
+  },
+  {
+    "_id": 3,
+    "name": "Adrak or Ginger Chai",
+    "category": "Bevrage",
+    "price": 25,
+    "image": "https://thumbs.dreamstime.com/b/tea-ginger-root-white-background-isolated-174549312.jpg",
+    "description": "Adrak or ginger chai is a hot favorite, especially during winter. Grated ginger is added to the tea pot while the tea is brewing. This is also considered the elixir for colds because of ginger’s reputation for clearing sinuses. ",
+    "available": true
+  },
+  {
+    "_id": 4,
+    "name": "Elaichi or Cardamom Chai",
+    "category": "Bevrage",
+    "price": 30,
+    "image": "https://th.bing.com/th/id/OIP.8YXapUs6NZ1vECJRSFPFPQHaE6?w=299&h=199&c=7&o=5&pid=1.7",
+    "description": "Elaichi or Cardamom Chai is sweet from the cardamom and is a refreshing choice of chai. Cinnamon can also added grated or powdered. ",
+    "available": true
+  },
+  {
+    "_id": 5,
+    "name": "Tulsi Chai",
+    "category": "Bevrage",
+    "price": 35,
+    "image": "https://thumbs.dreamstime.com/b/herbal-tea-cup-tulsi-leaves-over-white-background-74085945.jpg",
+    "description": "Tulsi Chai is known more for its health benefits, Tulsi Chai uses one of India’s most sacred herbs – the holy basil. Fresh tulsi leaves are added to the brew and it’s thought to strengthen the immune system and in relieving stress. This can be prepared with or without milk and the ideal time to consume is said to be in the morning.",
+    "available": true
+  }
+]
